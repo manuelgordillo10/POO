@@ -39,4 +39,3 @@ p.registrarse(registro);
 
 
 }
-//hola
